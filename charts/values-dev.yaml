@@ -11,7 +11,7 @@ image:
 
 
 blueHost: guestbook.blue.com
-greenHost: guestbook.blue.com
+greenHost: guestbook.green.com
 
 service:
   type: ClusterIP
